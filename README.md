@@ -1,9 +1,6 @@
 # BlueStone
 
-<html>
-
-  <body>
-    <a href="BlueBrick/HelloFromSH.docx" download="HelloFromSH.docx">download</a>
+<a href="BlueBrick/HelloFromSH.docx" download="HelloFromSH.docx">download</a>
 
     <p>亲,你好！</p>
     <p>我是大卫，您在上海的房东。 感谢预订我们的房子，欢迎来到您在上海的家！！</p>
@@ -35,8 +32,4 @@
     <p>祝您愉快！！</p>
     <br />
     <p>大卫</p>
-
-  </body>
-
-</html>
 
